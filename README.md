@@ -1,2 +1,2 @@
 # ar-gestures
-Touch gestures in a WebXR augmented reality app.
+Using touch gestures in an augmented reality web app built with WebXR.
